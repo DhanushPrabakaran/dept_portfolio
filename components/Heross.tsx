@@ -3,7 +3,7 @@ import React from 'react'
 // import Deveop from './deveop'
 import Dname from './COMP/Dname'
 import Deveop from './COMP/Deveop'
-const Hero = () => {
+const Heross = () => {
   return (
     <div className="hero min-h-screen bg-base-200">
       <div className="diff h-full   ">
@@ -19,4 +19,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Heross
