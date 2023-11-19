@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Projectcont = () => {
+const ProjectcontSSS = () => {
     return (
         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
             <div className="card-body">
@@ -34,4 +34,4 @@ const Projectcont = () => {
     )
 }
 
-export default Projectcont
+export default ProjectcontSSS
