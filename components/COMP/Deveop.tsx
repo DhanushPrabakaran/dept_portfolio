@@ -2,7 +2,7 @@ import React from 'react'
 
 const Deveop = () => {
   return (
-    <div className=" bg-secondary  font-black grid place-content-center">
+    <div className=' bg-right-bg bg-cover bg-no-repeat  font-black grid place-content-center'>
       <div
         className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
         <div>
