@@ -11,7 +11,7 @@ const Deveop = () => {
           </div>
 
           <div
-            className='text-primary-content    lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl  flex-col flex  font-black w-fit'>
+            className='text-primary    lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl  flex-col flex  font-black w-fit'>
             FULL STACK
             <span
               className=''>DEVELOPER</span>

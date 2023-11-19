@@ -7,7 +7,7 @@ const Dname = () => {
                 className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
                 <div>
                     <div className='lg:text-5xl text-4xl  max-md:text-3xl max-sm:text-xl'>
-                       Hai I{"'"}m
+                        Hai I{"'"}m
                     </div>
 
                     <div

@@ -7,10 +7,10 @@ const Hero = () => {
     <div className="hero min-h-screen bg-base-200">
       <div className="diff h-full   ">
         <div className="diff-item-1  ">
-          <Dname/>
+          <Deveop />
         </div>
-        <div className="diff-item-2 "> 
-          <Deveop/>
+        <div className="diff-item-2 ">
+          <Dname />
         </div>
         <div className="diff-resizer"></div>
       </div>
