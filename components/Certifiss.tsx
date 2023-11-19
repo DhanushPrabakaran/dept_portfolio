@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Certifi = () => {
+const Certifiss = () => {
     return (
         <div className="hero min-h-screen bg-black">
             <div className="hero-content text-center">
@@ -20,4 +20,4 @@ const Certifi = () => {
     )
 }
 
-export default Certifi
+export default Certifiss

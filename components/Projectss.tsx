@@ -1,7 +1,7 @@
 import React from 'react'
 // import Projectcont from './Projectcont'
 // import Projectcont from '@/components/Projectcont'
-const Project = () => {
+const Projectss = () => {
     return (
         <div className="hero min-h-screen bg-black">
             <div className="hero-content text-center">
@@ -55,4 +55,4 @@ const Project = () => {
     )
 }
 
-export default Project
+export default Projectss

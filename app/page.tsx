@@ -1,20 +1,21 @@
 import React from 'react'
 
 import Heross from '@/components/Heross'
-import Project from '@/components/Project'
-import Skill from '@/components/Skill'
-import Footer from '@/components/Footer'
-import Certifi from '@/components/Certifi'
+import Projectss from '@/components/Projectss'
+import Skillss from '@/components/Skillss'
+import Footerss from '@/components/Footerss'
+import Certifiss from '@/components/Certifiss'
+// import Project from '@/components/Projectss'
 
 
 export default function Home() {
   return (
    <div>
     <Heross/>
-    <Project/>
-    <Certifi/>
-    <Skill/>
-    <Footer/>
+    <Projectss/>
+    <Certifiss/>
+    <Skillss/>
+    <Footerss/>
    </div>
 
   )
