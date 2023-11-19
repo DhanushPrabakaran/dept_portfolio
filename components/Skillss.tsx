@@ -85,7 +85,7 @@ const Skillss = () => {
                                 <h2 className="card-title text-white">Next.js</h2>
                             </div>
                         </div>
-                        <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
+                        <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2">
                             <div className="card-body">
                                 <h2 className="card-title text-white">Next.js</h2>
                             </div>

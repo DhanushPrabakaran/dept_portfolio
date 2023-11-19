@@ -6,7 +6,7 @@ import Deveop from './COMP/Deveop'
 const Heross = () => {
   return (
     <div className="hero min-h-screen bg-base-200">
-      <div className="diff h-full   ">
+      <div className="diff h-full aspext[16:9]   ">
         <div className="diff-item-1  ">
           <Deveop />
         </div>
