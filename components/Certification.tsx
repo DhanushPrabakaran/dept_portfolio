@@ -1,11 +1,28 @@
 import React from 'react'
 
-const Projectcont = () => {
-    return (
-        <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
+const Certification = () => {
+  return (
+    <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
             <div className="card-body">
-                <h2 className="card-title justify-center font-black text-2xl">Dev Geeks Community</h2>
+                <h2 className="card-title justify-center font-black text-2xl">HTML Certification</h2>
                 <p>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
+                <div>
+                <h1
+                className=' font-black w-full text-start text-xl'>skill:</h1>
+                <h1>
+                    HTML5, CSS3, JavaScript, Responsive Web Design, SEO and Accessibility.
+                </h1>
+                </div>
+                <div>
+                <h1
+                className=' font-black w-full text-start text-xl'>Platform:</h1>
+                <h1
+                className=' text-2xl font-black text-error btn'>
+                    Hacker Rank
+                </h1>
+                </div>
+                {/* <h1
+                className=' font-black w-full text-start text-xl'>skill:</h1>
                 <div className='flex justify-center gap-1.5 flex-wrap '>
                     <div className="badge">HTML</div>
                     <div className="badge badge-neutral">CSS</div>
@@ -13,7 +30,7 @@ const Projectcont = () => {
                     <div className="badge badge-secondary">NodeJs</div>
                     <div className="badge badge-accent">ExpressJS</div>
                     <div className="badge badge-ghost">Api</div>
-                </div>
+                </div> */}
                 <div className=' flex justify-center'>
                     <a href="/" target="_blank" rel="noopener noreferrer">
                         <svg className="w-[30px] h-[30px] text-gray-800 dark:text-white m-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
@@ -26,12 +43,10 @@ const Projectcont = () => {
                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.013 7.962a3.519 3.519 0 0 0-4.975 0l-3.554 3.554a3.518 3.518 0 0 0 4.975 4.975l.461-.46m-.461-4.515a3.518 3.518 0 0 0 4.975 0l3.553-3.554a3.518 3.518 0 0 0-4.974-4.975L10.3 3.7" />
                         </svg>
                     </a>
-
-
                 </div>
             </div>
         </div>
-    )
+  )
 }
 
-export default Projectcont
+export default Certification
