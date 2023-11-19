@@ -2,7 +2,7 @@ import React from 'react'
 
 const Dname = () => {
     return (
-        <div className=' bg-black  font-black grid place-content-center'>
+        <div className=' bg-primary  font-black grid place-content-center'>
             <div
                 className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
                 <div>

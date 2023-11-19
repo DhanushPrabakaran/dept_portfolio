@@ -2,7 +2,7 @@ import React from 'react'
 
 const Skillss = () => {
     return (
-        <div className="hero min-h-screen bg-black">
+        <div className="hero min-h-screen bg-primary">
             <div className="hero-content text-center">
                 <div>
                     <h1 className="lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-4xl font-black ">SKILLS</h1>

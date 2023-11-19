@@ -4,8 +4,9 @@ const ProjectcontSSS = () => {
     return (
         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
             <div className="card-body">
-                <h2 className="card-title justify-center font-black text-2xl">Dev Geeks Community</h2>
-                <p>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
+                <h2 className="card-title justify-center font-black text-2xl text-white">Dev Geeks Community</h2>
+                <p
+                className='text-white'>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
                 <div className='flex justify-center gap-1.5 flex-wrap '>
                     <div className="badge">HTML</div>
                     <div className="badge badge-neutral">CSS</div>
