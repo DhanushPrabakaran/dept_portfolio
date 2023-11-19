@@ -6,7 +6,7 @@ const Deveop = () => {
       <div
         className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
         <div>
-        <div className='lg:text-5xl text-5xl  max-md:text-3xl max-sm:text-xl font-black text-white text-center'>
+        <div className='lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-3xl font-black text-white text-center'>
                         Hai I{"'"}m a
                     </div>
 
