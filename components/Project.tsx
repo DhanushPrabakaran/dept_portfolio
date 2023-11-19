@@ -1,6 +1,6 @@
 import React from 'react'
 // import Projectcont from './Projectcont'
-import Projectcont from '@/components/projectcont'
+import Projectcont from '@/components/Projectcont'
 const Project = () => {
     return (
         <div className="hero min-h-screen bg-black">

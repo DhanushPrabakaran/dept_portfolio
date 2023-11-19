@@ -1,6 +1,6 @@
 import React from 'react'
 
-const skill = () => {
+const Skill = () => {
     return (
         <div className="hero min-h-screen bg-black">
             <div className="hero-content text-center">
@@ -97,4 +97,4 @@ const skill = () => {
     )
 }
 
-export default skill
+export default Skill
