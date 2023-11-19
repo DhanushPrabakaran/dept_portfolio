@@ -5,17 +5,19 @@ const Certification = () => {
     <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
             <div className="card-body">
                 <h2 className="card-title text-white justify-center font-black text-2xl">HTML Certification</h2>
-                <p>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
+                <p
+                className='text-white'>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
                 <div>
                 <h1
-                className=' font-black w-full text-start text-xl'>skill:</h1>
-                <h1>
+                className=' font-black w-full text-start text-xl text-white'>skill:</h1>
+                <h1
+                className=' text-white'>
                     HTML5, CSS3, JavaScript, Responsive Web Design, SEO and Accessibility.
                 </h1>
                 </div>
                 <div>
                 <h1
-                className=' font-black w-full text-start text-xl'>Platform:</h1>
+                className=' font-black w-full text-start text-xl text-white'>Platform:</h1>
                 <h1
                 className=' text-2xl font-black text-error btn'>
                     Hacker Rank
