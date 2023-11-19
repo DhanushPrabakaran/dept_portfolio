@@ -5,7 +5,7 @@ const Skillss = () => {
         <div className="hero min-h-screen bg-primary">
             <div className="hero-content text-center">
                 <div>
-                    <h1 className="lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-4xl font-black ">SKILLS</h1>
+                    <h1 className="lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-4xl font-black text-white  ">SKILLS</h1>
                     <div
                         className=' w-full flex flex-wrap justify-center'>
                         {/* <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary to-secondary bg-opacity-25  m-2 w-fit"> */}

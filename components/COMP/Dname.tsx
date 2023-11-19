@@ -6,15 +6,13 @@ const Dname = () => {
             <div
                 className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
                 <div>
-                    <div className='lg:text-5xl text-4xl  max-md:text-3xl max-sm:text-xl text-white'>
+                    <div className='lg:text-5xl text-5xl  max-md:text-3xl max-sm:text-xl font-black text-white text-center'>
                         Hai I{"'"}m
                     </div>
 
                     <div
-                        className=' text-secondary lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl flex-col flex  font-black w-fit'>
-                        DHANUSH
-                        <span
-                            className=''>PRABAKARAN</span>
+                        className=' text-secondary lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl flex-col flex  text-center font-black w-fit'>
+                        DHANUSH PRABAKARAN
                     </div>
                 </div>
 
