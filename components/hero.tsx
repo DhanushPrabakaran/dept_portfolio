@@ -1,8 +1,8 @@
 import React from 'react'
-import Dname from './dname'
-import Deveop from './deveop'
-// import Dname from '@/components/Dname'
-// import Deveop from '@/components/Deveop'
+// import Dname from './dname'
+// import Deveop from './deveop'
+import Dname from '@/components/Dname'
+import Deveop from '@/components/Deveop'
 const Hero = () => {
   return (
     <div className="hero min-h-screen bg-base-200">
