@@ -6,12 +6,12 @@ const Deveop = () => {
       <div
         className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
         <div>
-          <div className='text-5xl'>
+          <div className='lg:text-5xl text-4xl  max-md:text-3xl max-sm:text-xl'>
             Hai I{"'"}m
           </div>
 
           <div
-            className='text-primary-content    text-9xl  flex-col flex  font-black w-fit'>
+            className='text-primary-content    lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl  flex-col flex  font-black w-fit'>
             FULL STACK
             <span
               className=''>DEVELOPER</span>
