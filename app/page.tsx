@@ -1,4 +1,4 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 import Hero from '@/components/Hero'
 import Project from '@/components/Project'
 import Skill from '@/components/Skill'
