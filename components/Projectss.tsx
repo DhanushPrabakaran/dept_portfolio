@@ -16,7 +16,7 @@ const Projectss = () => {
 
                         {/* <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
                             <div className="card-body">
-                                <h2 className="card-title justify-center font-black text-2xl">Life hack</h2>
+                                <h2 className="card-title text-white justify-center font-black text-2xl">Life hack</h2>
                                 <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit</p>
                                 <div className='flex justify-center gap-1.5 flex-wrap '>
                                     <div className="badge">default</div>
@@ -46,28 +46,28 @@ const Projectss = () => {
 
                         {/* <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Life hack</h2>
+                                <h2 className="card-title text-white">Life hack</h2>
                             </div>
                         </div>
                     
                     
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Life hack</h2>
+                                <h2 className="card-title text-white">Life hack</h2>
                             </div>
                         </div>
                     
                     
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Life hack</h2>
+                                <h2 className="card-title text-white">Life hack</h2>
                             </div>
                         </div>
                     
                     
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Life hack</h2>
+                                <h2 className="card-title text-white">Life hack</h2>
                             </div>
                         </div> */}
 

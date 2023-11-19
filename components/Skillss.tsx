@@ -11,83 +11,83 @@ const Skillss = () => {
                         {/* <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary to-secondary bg-opacity-25  m-2 w-fit"> */}
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">HTML</h2>
+                                <h2 className="card-title text-white">HTML</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">CSS</h2>
+                                <h2 className="card-title text-white">CSS</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">JavaScript</h2>
+                                <h2 className="card-title text-white">JavaScript</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">React</h2>
+                                <h2 className="card-title text-white">React</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Python</h2>
+                                <h2 className="card-title text-white">Python</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Git</h2>
+                                <h2 className="card-title text-white">Git</h2>
                             </div>
                         </div>
 
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">NextJS</h2>
+                                <h2 className="card-title text-white">NextJS</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Typerscript</h2>
+                                <h2 className="card-title text-white">Typerscript</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Java</h2>
+                                <h2 className="card-title text-white">Java</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">NodeJS</h2>
+                                <h2 className="card-title text-white">NodeJS</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Tailwindcss</h2>
+                                <h2 className="card-title text-white">Tailwindcss</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">C</h2>
+                                <h2 className="card-title text-white">C</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Next.js</h2>
+                                <h2 className="card-title text-white">Next.js</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Next.js</h2>
+                                <h2 className="card-title text-white">Next.js</h2>
                             </div>
                         </div>
                         <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 w-fit">
                             <div className="card-body">
-                                <h2 className="card-title">Next.js</h2>
+                                <h2 className="card-title text-white">Next.js</h2>
                             </div>
                         </div>
                     </div>
