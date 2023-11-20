@@ -13,10 +13,10 @@ export default function Home() {
   return (
    <div>
     <Heross/>
-    <Projectss/>
+    <Timeline />
     <Certifiss/>
     <Skillss/>
-    <Timeline></Timeline>
+    {/* <Timeline></Timeline> */}
     <Footerss/>
    </div>
 
