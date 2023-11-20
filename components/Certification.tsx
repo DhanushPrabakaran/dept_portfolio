@@ -19,7 +19,7 @@ const Certification = () => {
                 <h1
                 className=' font-black w-full text-start text-xl text-white'>Platform:</h1>
                 <h1
-                className=' text-2xl font-black text-error btn'>
+                className=' text-2xl bg-opacity-0 font-black  btn'>
                     Hacker Rank
                 </h1>
                 </div>
