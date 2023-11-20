@@ -2,11 +2,12 @@ import React from 'react'
 
 const ProjectcontSSS = () => {
     return (
-        <div className="card   bg-gradient-to-b from-gray-700 via-slate-600 to-gray-700 bg-opacity-25 glass m-2 ">
+        <div className=" border rounded-lg shadow-sm shadow-slate-400 glass  bg-opacity-0 m-2 ">
+            {/* <div className="card   bg-gradient-to-b from-gray-700 via-slate-600 to-gray-700 bg-opacity-25 glass m-2 "></div> */}
             <div className="card-body">
-                <h2 className="card-title  justify-center font-black text-2xl text-white">Dev Geeks Community</h2>
+                <h2 className="card-title  justify-center font-black text-2xl text-gray-600">Dev Geeks Community</h2>
                 <p
-                className='text-white'>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
+                className='text-black'>Dev geeks platform is a vibrant hub for developers of all backgrounds and expertise levels to come together and create, learn, and grow.</p>
                 <div className='flex justify-center gap-1.5 flex-wrap '>
                     <div className="badge">HTML</div>
                     <div className="badge badge-neutral">CSS</div>
