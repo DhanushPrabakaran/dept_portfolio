@@ -2,16 +2,18 @@ import React from 'react'
 
 const Dname = () => {
     return (
-        <div className=' bg-left-bg bg-cover bg-no-repeat  font-black grid place-content-center'>
+        // <div className=" bg-base-200">
+        <div className='hero min-h-screen bg-left-bg bg-cover bg-no-repeat  font-black grid place-content-center '>
+         {/* <div className='hero min-h-screen bg-[#152323] grid place-content-center '> */}
             <div
                 className='flex w-fit justify-center  flex-col flex-wrap font-black items-center'>
                 <div>
-                    <div className='lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-3xl font-black text-white text-center'>
+                    <div className='lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-3xl font-black text-white text-center '>
                         Hai I{"'"}m
                     </div>
 
                     <div
-                        className=' text-secondary lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl flex-col flex  text-center font-black w-fit'>
+                        className='lg:text-5xl  text-7xl max-md:text-5xl max-sm:text-4xl flex-col flex  text-center    text-transparent bg-clip-text bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-indigo-200 via-slate-600 to-indigo-200'>
                         DHANUSH PRABAKARAN
                     </div>
                 </div>
@@ -25,6 +27,7 @@ const Dname = () => {
                 </div>
             </div>
         </div>
+        // </div>
     )
 }
 

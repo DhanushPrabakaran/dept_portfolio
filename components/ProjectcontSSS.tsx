@@ -2,7 +2,7 @@ import React from 'react'
 
 const ProjectcontSSS = () => {
     return (
-        <div className="card  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-indigo-500 bg-opacity-25  m-2 ">
+        <div className="card   bg-gradient-to-b from-gray-700 via-slate-600 to-gray-700 bg-opacity-25 glass m-2 ">
             <div className="card-body">
                 <h2 className="card-title  justify-center font-black text-2xl text-white">Dev Geeks Community</h2>
                 <p

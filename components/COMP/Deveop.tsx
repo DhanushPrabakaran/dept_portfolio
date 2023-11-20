@@ -2,16 +2,16 @@ import React from 'react'
 
 const Deveop = () => {
   return (
-    <div className=' bg-right-bg bg-cover bg-no-repeat  font-black grid place-content-center'>
+    <div className=' bg-right-bg bg-cover bg-no-repeat   grid place-content-center'>
       <div
-        className='flex w-fit   justify-center  flex-col flex-wrap font-black items-center'>
+        className='flex w-fit   justify-center  flex-col flex-wrap  items-center'>
         <div>
-        <div className='lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-3xl font-black text-white text-center'>
+        <div className='lg:text-5xl text-5xl  max-md:text-4xl max-sm:text-3xl  text-white text-center'>
                         Hai I{"'"}m a
                     </div>
 
           <div
-            className='text-primary text-center   lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl  flex-col flex  font-black w-fit'>
+            className='text-primary text-center   lg:text-9xl text-8xl max-md:text-6xl max-sm:text-5xl  flex-col flex   w-fit'>
             FULL STACK DEVELOPER
           </div>
         </div>
