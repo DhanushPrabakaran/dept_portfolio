@@ -15,7 +15,7 @@ export default function Home() {
     <Timeline />
     <Certifiss/>
     <Skillss/>
-    {/* <Timeline></Timeline> */}
+    <Timeline></Timeline>
     <Footerss/>
    </div>
 
