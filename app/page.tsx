@@ -12,7 +12,7 @@ export default function Home() {
   return (
    <div>
     <Heross/>
-    {/* <Timeline /> */}
+    <Timeline />
     <Certifiss/>
     <Skillss/>
     {/* <Timeline></Timeline> */}
