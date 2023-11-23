@@ -2,8 +2,8 @@ import React from 'react'
 
 const Dname = () => {
     return (
-        // <div className=" bg-base-200">
-        <div className='hero min-h-screen bg-left-bg bg-cover bg-no-repeat  font-black grid place-content-center '>
+        <div className=" bg-base-200">
+        {/* // <div className='hero min-h-screen bg-left-bg bg-cover bg-no-repeat  font-black grid place-content-center '> */}
             {/* <div className='hero min-h-screen bg-[#152323] grid place-content-center '> */}
             <div
                 className='flex w-fit justify-center  flex-col flex-wrap font-black items-center'>
