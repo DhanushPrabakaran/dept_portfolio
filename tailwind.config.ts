@@ -19,14 +19,46 @@ const config: Config = {
   plugins: [require("daisyui")],
   daisyui: {
     themes: [
-    //   {
-    //     night: {
-    //     ...require("daisyui/src/theming/themes")["light"],
-    //     primary: "black",
-    //     secondary: "#6366f1",
-    //   },
-    // },
-    "dark", "cupcake","dracula","forest","winter","dim","nord","night"], // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
+      "light",
+      "dark",
+      "cupcake",
+      "bumblebee",
+      "emerald",
+      "corporate",
+      "synthwave",
+      "retro",
+      "cyberpunk",
+      "valentine",
+      "halloween",
+      "garden",
+      "forest",
+      "aqua",
+      "lofi",
+      "pastel",
+      "fantasy",
+      "wireframe",
+      "black",
+      "luxury",
+      "dracula",
+      "cmyk",
+      "autumn",
+      "business",
+      "acid",
+      "lemonade",
+      {
+      night: {
+        ...require("daisyui/src/theming/themes")["night"],
+        primary: "blue",
+        secondary: "teal",
+        base:"white",
+      },
+    },
+      "coffee",
+      "winter",
+      "dim",
+      "nord",
+      "sunset",
+    ],
     darkTheme: "night", // name of one of the included themes for dark mode
     base: true, // applies background color and foreground color for root element by default
     styled: true, // include daisyUI colors and design decisions for all components

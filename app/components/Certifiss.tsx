@@ -1,5 +1,5 @@
 import React from 'react'
-import Certification from '@/components/Certification'
+import Certification from '@/app/components/Certification'
 const Certifiss = () => {
     return (
         <div className="hero min-h-screen  bg-[#A5C9CA] lg:bg-[#9abec0]">
